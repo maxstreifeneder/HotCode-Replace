@@ -6,9 +6,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class HelloController {
 
-    @GetMapping("/redirect")
+    @GetMapping("/hotreload")
     public String greeting() {
-        System.out.println("REDIRECT");
+        System.out.println("test");
         return "test";
     }
 }

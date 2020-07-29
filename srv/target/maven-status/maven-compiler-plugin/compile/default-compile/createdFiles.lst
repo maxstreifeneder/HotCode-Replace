@@ -1,0 +1,8 @@
+cds/gen/my/bookshop/Bookshop_.class
+cds/gen/my/bookshop/Books.class
+cds/gen/catalogservice/Books.class
+com/maxstreifeneder/hotreload/handlers/CatalogServiceHandler.class
+cds/gen/catalogservice/CatalogService_.class
+com/maxstreifeneder/hotreload/Application.class
+cds/gen/catalogservice/Books_.class
+cds/gen/my/bookshop/Books_.class
